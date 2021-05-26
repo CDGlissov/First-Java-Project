@@ -1,1 +1,1 @@
-Project I did during the bachelor in Java
+Worked with Java
